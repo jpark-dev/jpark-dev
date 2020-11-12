@@ -19,15 +19,15 @@
   - Worked as a point of contact and on-call engineer to attend meetings and fix errors/update/build new features for the applications used in vehicle testing circuits of [Korea Transportation Safety Authority](http://www.ts2020.kr/eng/main.do)
 
 ### Stack ###
-| LANGUAGES       | FRAMEWORKS/LIBRARIES | DB/VERSION CONTROL | TESTING    | CLOUD/SERVER    | CI/CD      | OS      |
-| :-------------: | :------------------: | :----------------: | :--------: | :--------------:|:---------: | :-----: |
-| JavaScript(ES7) | React.js/Redux       | PostgreSQL         | Jest       | AWS Lightsail   | Docker     | Windows |
-| TypeScript      | Node.js/Express.js   | GraphQL/Firebase   | Cypress    | Google Firebase | Kubernetes | WSL2    |
-| Java/JSP        | Nest.js/             | MySQL/MariaDB      | Storybook  | Github Pages    |            | Ubuntu  |
-| Python          | Spring Boot          | Oracle             | Mocha/Chai | Heroku          |            | CentOS  |
-| HTML5/CSS3      | Bootstrap            | Tibero             | RSpec      | Docker          |            | Android |
-| Ruby            | jQuery/AJAX          | Git/SVN            | TDD        | Tomcat          |            | IOS     |
-| SQL             | Material-UI          |                    |            | Nginx           |            |         |
+| LANGUAGES       | FRAMEWORKS/LIBRARIES | DB/VERSION-CONTROL | TESTING    | CLOUD/SERVER    | CI/CD      |
+| :-------------: | :------------------: | :----------------: | :--------: | :--------------:|:---------: |
+| JavaScript(ES7) | React.js/Redux       | PostgreSQL         | Jest       | AWS Lightsail   | Docker     |
+| TypeScript      | Node.js/Express.js   | GraphQL/Firebase   | Cypress    | Google Firebase | Kubernetes |
+| Java/JSP        | Nest.js/             | MySQL/MariaDB      | Storybook  | Github Pages    |            |
+| Python          | Spring Boot          | Oracle             | Mocha/Chai | Heroku          |            |
+| HTML5/CSS3      | Bootstrap            | Tibero             | RSpec      | Docker          |            |
+| Ruby            | jQuery/AJAX          | Git/SVN            | TDD        | Tomcat          |            |
+| SQL             | Material-UI          |                    |            | Nginx           |            |
 
 ### Passionate Learner ###
 - :memo: I’m currently learning **Nest.js/GraphQL/Firebase**, and **Docker/Kubernetes**.
