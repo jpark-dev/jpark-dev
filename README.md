@@ -7,8 +7,8 @@
 - 🔭 Currently working as a **React/RN Software Engineer**(contract) for the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/)**.
 
 - 🌱 Worked as a junior **mentor** from **[Lighthouse Labs](https://www.lighthouselabs.ca/) for 12 weeks**, average student rating of **4.85/5**.
-  - Mentored students on JavaScript ES6 fundamentals, Node.js/Express.js, and HTML5/CSS3/Flexbox for two full-stack projects and daily exercises.
-  - Assisted 10-20 students online per week by giving directions and showing best practices with code reviews and pair programming.
+  - Mentored students on JavaScript ES6, Node/Express, and HTML5/CSS3/Flexbox for daily exercises and projects.
+  - Assisted 10-20 students online per week by showing best practices with code reviews and pair programming.
     - "Super explanations & super friendly ! 10/10."  
     - "VERY helpful, made sure I knew what was going on."
     
