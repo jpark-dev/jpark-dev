@@ -23,14 +23,15 @@
 | :-------------: | :------------------: | :----------------: | :--------: | :--------------:|:---------: |
 | JavaScript(ES7) | React.js/Redux       | PostgreSQL         | Jest       | AWS Lightsail   | Docker     |
 | TypeScript      | Node.js/Express.js   | GraphQL/Firebase   | Cypress    | Google Firebase | Kubernetes |
-| Java/JSP        | Nest.js/             | MySQL/MariaDB      | Storybook  | Github Pages    |            |
+| Java/JSP        | Nest.js              | MySQL/MariaDB      | Storybook  | Github Pages    |            |
 | Python          | Spring Boot          | Oracle             | Mocha/Chai | Heroku          |            |
 | HTML5/CSS3      | Bootstrap            | Tibero             | RSpec      | Docker          |            |
 | Ruby            | jQuery/AJAX          | Git/SVN            | TDD        | Tomcat          |            |
 | SQL             | Material-UI          |                    |            | Nginx           |            |
+|                 | React Native         |                    |            |                 |            |
 
 ### Passionate Learner ###
-- :memo: I’m currently learning **Nest.js/GraphQL/Firebase**, and **Docker/Kubernetes**.
+- :memo: I’m currently learning **Vue.js**, **Nest.js/GraphQL/Firebase**, and **Docker/Kubernetes**.
 - :memo: Also getting hands-on experience in **Jira/Confluence** for agile production.
 
 ### Interests ###
