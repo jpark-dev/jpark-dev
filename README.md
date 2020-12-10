@@ -4,8 +4,8 @@
 
 ### Work Experience ###
 
-- :sparkles: Currently working as a **Junior Full-stack Software Developer**(F/T Permanent) for **[Piliothouse Digital](https://www.pilothouse.co)**
-- 🔭 Currently working as a **React/RN Software Developer**(P/T contract) for the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/)**.
+- :sparkles: Currently working as a **Junior Full-stack Software Developer** for **[Piliothouse Digital](https://www.pilothouse.co)**
+- 🔭 Currently working as a **React/RN Software Developer** for the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/)**.
 
 - 🌱 Worked as a junior **mentor** from **[Lighthouse Labs](https://www.lighthouselabs.ca/) for 12 weeks**, average student rating of **4.85/5**.
   - Mentored students on JavaScript ES6, Node/Express, and HTML5/CSS3/Flexbox for daily exercises and projects.
