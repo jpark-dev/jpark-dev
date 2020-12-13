@@ -1,10 +1,8 @@
 # Welcome to Jason's GitHub repositories! #
 
-## I'm currently open to full-time Frontend/Full Stack developer opportunities! 👋 ##
-
 ### Work Experience ###
 
-- :sparkles: Currently working as a **Junior Full-stack Software Developer** for **[Piliothouse Digital](https://www.pilothouse.co)**
+- :sparkles: Currently working as a **Junior Full-stack Software Developer** at **[Piliothouse Digital](https://www.pilothouse.co)**
 - 🔭 Currently working as a **React/RN Software Developer** for the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/)**.
 
 - 🌱 Worked as a junior **mentor** from **[Lighthouse Labs](https://www.lighthouselabs.ca/) for 12 weeks**, average student rating of **4.85/5**.
