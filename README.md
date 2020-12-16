@@ -5,7 +5,7 @@
 - :sparkles: Currently working as a **Junior Software Developer** at **[Helmkin Digital Ltd.](https://www.helmkin.com)**
 - 🔭 Currently working as a **React/RN Software Developer** for the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/)**.
 
-- 🌱 Worked as a junior **mentor** from **[Lighthouse Labs](https://www.lighthouselabs.ca/) for 12 weeks**, average student rating of **4.85/5**.
+- 🌱 Worked as an **Apprentice Mentor** from **[Lighthouse Labs](https://www.lighthouselabs.ca/) for 12 weeks**, average student rating of **4.85/5**.
   - Mentored students on JavaScript ES6, Node/Express, and HTML5/CSS3/Flexbox for daily exercises and projects.
   - Assisted 10-20 students online per week by showing best practices with code reviews and pair programming.
     - "Super explanations & super friendly ! 10/10."  
@@ -16,11 +16,22 @@
   - Built history and recruitment pages in the company’s WordPress site.
   - Migrated a PHP app to JSP by building reservation related pages with jQuery and jqGrid to ensure cross-browser compatibility across IE 5-8 and Chrome.
   - Worked as a point of contact and on-call engineer to attend meetings and fix errors/update/build new features for the applications used in vehicle testing circuits of [Korea Transportation Safety Authority](http://www.ts2020.kr/eng/main.do)
+  
+### Software Development Career Path ###
+
+| DATE            | ROLE/PROGRAM              | COMPANY/SCHOOL             | PROJECTS/Team | TYPE          | 
+| :-------------: | :-----------------------: | :------------------------: | :-----------: | :-----------: |
+| Dec'20 - Pres.  | Junior Software Developer | Helmkin Digital Ltd.       | Rubix Team    | FT, Permanent |
+| Nov'20 - Pres.  | RN Frontend Developer     | UBC Digital Literacy Center| Phoneme       | PT, Contract  |
+| Aug'20 - Nov'20 | Apprentice Mentor         | Lighthouse Labs            | Mentor        | PT, Contract  |
+| Mar'20 - May'20 | Web Development Bootcamp  | Lighthouse Labs            | Student       | FT, 12 weeks  |
+| Jun'17 - Jun'18 | Java Software Developer   | Soul Information Technology| Dev Team 3    | FT, Permanent |
+| Sep'16 - Mar'17 | Java Development Bootcamp | KIC Campus                 | Student       | FT, 27 weeks  |
 
 ### Stack ###
 | LANGUAGES       | FRAMEWORKS/LIBRARIES | DB/VERSION-CONTROL | TESTING    | CLOUD/SERVER    | CI/CD      |
 | :-------------: | :------------------: | :----------------: | :--------: | :--------------:|:---------: |
-| JavaScript(ES7) | React.js/Redux       | PostgreSQL         | Jest       | AWS Lightsail   | Docker     |
+| JavaScript(ES7) | React.js/Vue.js/Redux| PostgreSQL         | Jest       | AWS Lightsail   | Docker     |
 | TypeScript      | Node.js/Express.js   | GraphQL/Firebase   | Cypress    | Google Firebase | Kubernetes |
 | Java/JSP        | Nest.js              | MySQL/MariaDB      | Storybook  | Github Pages    |            |
 | Python          | Spring Boot          | Oracle             | Mocha/Chai | Heroku          |            |
