@@ -31,18 +31,20 @@
 ### Stack ###
 | LANGUAGES       | FRAMEWORKS/LIBRARIES | DB/VERSION-CONTROL | TESTING    | CLOUD/SERVER    | CI/CD      |
 | :-------------: | :------------------: | :----------------: | :--------: | :--------------:|:---------: |
-| JavaScript(ES7) | React.js/Vue.js/Redux| PostgreSQL         | Jest       | AWS Lightsail   | Docker     |
-| TypeScript      | Node.js/Express.js   | GraphQL/Firebase   | Cypress    | Google Firebase | Kubernetes |
-| Java/JSP        | Nest.js              | MySQL/MariaDB      | Storybook  | Github Pages    |            |
-| Python          | Spring Boot          | Oracle             | Mocha/Chai | Heroku          |            |
-| HTML5/CSS3      | Bootstrap            | Tibero             | RSpec      | Docker          |            |
-| Ruby            | jQuery/AJAX          | Git/SVN            | TDD        | Tomcat          |            |
+| JavaScript(ES7) | Vue.js/Vuex/Vuetify  | PostgreSQL         | Jest       | AWS Lightsail   | Docker     |
+| TypeScript      | React.js/Redux       | GraphQL/Firebase   | Cypress    | Google Firebase | Kubernetes |
+| Java/JSP        | React Native         | MySQL/MariaDB      | Storybook  | Github Pages    | Circle-CI  |
+| Python          | Node.js/Express.js   | Oracle             | Mocha/Chai | Heroku          |            |
+| HTML5/CSS3      | Nest.js              | Tibero             | RSpec      | Docker          |            |
+| Ruby            | Spring Boot          | Git/SVN            | TDD        | Tomcat          |            |
 | SQL             | Material-UI          |                    |            | Nginx           |            |
-|                 | React Native         |                    |            |                 |            |
+| SCSS            | Bootstrap            |                    |            |                 |            |
+|                 | jQuery/AJAX          |                    |            |                 |            |
+
 
 ### Passionate Learner ###
-- :memo: I’m currently learning **Vue.js**, **Nest.js/GraphQL/Firebase**, and **Docker/Kubernetes**.
-- :memo: Also getting hands-on experience in **Jira/Confluence** for agile production.
+- :memo: I’m currently learning **Vue.js/Vuex/Vuetify**, **Nest.js/GraphQL/Firebase**, and **Docker/Kubernetes**.
+- :memo: Also getting hands-on experience in **Jira/Confluence/ClickUp** for agile production.
 
 ### Interests ###
 - 😄 Interest in console/PC/VR games, particularly in city/base builders, JRPG, MMORPG, rhythm games...
@@ -50,7 +52,6 @@
 
 ### Quirky Fact ###
 - ⚡ Fun fact: A true believer in :pray::chicken::pray::chicken:**deep fried chickens**!:pray::chicken::pray::chicken:
-
 
 <!--
 **jpark-dev/jpark-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
