@@ -3,7 +3,7 @@
 ### Work Experience ###
 
 - :sparkles: Currently working as a **Junior Software Developer** at **[Helmkin Digital Ltd.](https://www.helmkin.com)**
-- 🔭 Currently working as a **React/RN Software Developer** for the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/)**.
+- 🔭 Currently working as a **React Native Frontend Developer** for the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/)**.
 
 - 🌱 Worked as an **Apprentice Mentor** from **[Lighthouse Labs](https://www.lighthouselabs.ca/) for 12 weeks**, average student rating of **4.85/5**.
   - Mentored students on JavaScript ES6, Node/Express, and HTML5/CSS3/Flexbox for daily exercises and projects.
@@ -31,19 +31,20 @@
 ### Stack ###
 | LANGUAGES       | FRAMEWORKS/LIBRARIES | DB/VERSION-CONTROL | TESTING    | CLOUD/SERVER    | CI/CD      |
 | :-------------: | :------------------: | :----------------: | :--------: | :--------------:|:---------: |
-| JavaScript(ES7) | Vue.js/Vuex/Vuetify  | PostgreSQL         | Jest       | AWS Lightsail   | Docker     |
-| TypeScript      | React.js/Redux       | GraphQL/Firebase   | Cypress    | Google Firebase | Kubernetes |
+| JavaScript(ES7) | Vue.js/Vuex/Vuetify  | PostgreSQL         | Jest       | Google Firebase | Docker     |
+| TypeScript      | React.js/Redux       | GraphQL/Firebase   | Cypress    | AWS Lightsail   | Kubernetes |
 | Java/JSP        | React Native         | MySQL/MariaDB      | Storybook  | Github Pages    | Circle-CI  |
 | Python          | Node.js/Express.js   | Oracle             | Mocha/Chai | Heroku          |            |
-| HTML5/CSS3      | Nest.js              | Tibero             | RSpec      | Docker          |            |
+| HTML5/CSS3      | Nest.js              | Tibero             | RSpec      | Netlify         |            |
 | Ruby            | Spring Boot          | Git/SVN            | TDD        | Tomcat          |            |
 | SQL             | Material-UI          |                    |            | Nginx           |            |
-| SCSS            | Bootstrap            |                    |            |                 |            |
+| SASS/SCSS       | Bootstrap            |                    |            |                 |            |
 |                 | jQuery/AJAX          |                    |            |                 |            |
 
 
 ### Passionate Learner ###
 - :memo: I’m currently learning **Vue.js/Vuex/Vuetify**, **Nest.js/GraphQL/Firebase**, and **Docker/Kubernetes**.
+- :memo: I've started working towards a bachelor's degree in computer engineering, currently taking 5 courses.
 - :memo: Also getting hands-on experience in **Jira/Confluence/ClickUp** for agile production.
 
 ### Interests ###
