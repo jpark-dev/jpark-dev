@@ -44,7 +44,7 @@
 
 ### Passionate Learner ###
 - :memo: I’m currently learning **Vue.js/Vuex/Vuetify**, **Nest.js/GraphQL/Firebase**, and **Docker/Kubernetes**.
-- :memo: I've started working towards a bachelor's degree in computer engineering, currently taking 5 courses.
+- :memo: I've started working towards a bachelor's degree in computer engineering, currently taking 4 courses.
 - :memo: Also getting hands-on experience in **Jira/Confluence/ClickUp** for agile production.
 
 ### Interests ###
