@@ -3,32 +3,55 @@
 ### Work Experience ###
 
 - :sparkles: Currently working as a **Junior Software Developer** at **[Helmkin Digital Ltd.](https://www.helmkin.com)**
-- 🔭 Currently working as a **React Native Frontend Developer** for the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/)**.
+
+- 🔭 Worked as a **React Native Frontend Developer** from the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/) for 8 months**.
+  <details>
+    <summary>Accomplishments</summary>
+
+    - Planned and built reusable React components to reduce the code and make it DRY.
+    - Fixed and adjusted hardcoded CSS styling to be dynamic and reactive with flexbox.
+    - Improved the application to deliver similar User Experience on both IOS/Android inclduing UI, platform-specific styles and behaviors.
+    - Managed tasks and collaborated with the team using Jira and Confluence.
+  </details>
 
 - 🌱 Worked as an **Apprentice Mentor** from **[Lighthouse Labs](https://www.lighthouselabs.ca/) for 12 weeks**, average student rating of **4.85/5**.
-  - Mentored students on JavaScript ES6, Node/Express, and HTML5/CSS3/Flexbox for daily exercises and projects.
-  - Assisted 10-20 students online per week by showing best practices with code reviews and pair programming.
-    - "Super explanations & super friendly ! 10/10."  
-    - "VERY helpful, made sure I knew what was going on."
+  <details>
+    <summary>Accomplishments</summary>
+
+    - Mentored students on JavaScript ES6, Node/Express, and HTML5/CSS3/Flexbox for daily exercises and projects.
+    - Assisted 10-20 students online per week by showing best practices with code reviews and pair programming.
+      - "Super explanations & super friendly ! 10/10."  
+      - "VERY helpful, made sure I knew what was going on."
+  </details>
     
 - 👯 Worked as a **Full Stack Java web developer for 1 year**.
+  <details>
+    <summary>Accomplishments</summary>
+
   - Managed 5 Java Spring apps by adding pages, improving features, and fixing errors. 
   - Built history and recruitment pages in the company’s WordPress site.
   - Migrated a PHP app to JSP by building reservation related pages with jQuery and jqGrid to ensure cross-browser compatibility across IE 5-8 and Chrome.
   - Worked as a point of contact and on-call engineer to attend meetings and fix errors/update/build new features for the applications used in vehicle testing circuits of [Korea Transportation Safety Authority](http://www.ts2020.kr/eng/main.do)
+  </details>
   
-### Software Development Career Path ###
+### Career and Stack ###
+
+  <details>
+    <summary>Career</summary>
 
 | DATE            | ROLE/PROGRAM              | COMPANY/SCHOOL             | PROJECTS/Team | TYPE          | 
 | :-------------: | :-----------------------: | :------------------------: | :-----------: | :-----------: |
 | Dec'20 - Pres.  | Junior Software Developer | Helmkin Digital Ltd.       | Rubix Team    | FT, Permanent |
-| Nov'20 - Pres.  | RN Frontend Developer     | UBC Digital Literacy Center| Phoneme       | PT, Contract  |
+| Nov'20 - Jun'21 | RN Frontend Developer     | UBC Digital Literacy Center| Phoneme       | PT, Contract  |
 | Aug'20 - Nov'20 | Apprentice Mentor         | Lighthouse Labs            | Mentor        | PT, Contract  |
 | Mar'20 - May'20 | Web Development Bootcamp  | Lighthouse Labs            | Student       | FT, 12 weeks  |
 | Jun'17 - Jun'18 | Java Software Developer   | Soul Information Technology| Dev Team 3    | FT, Permanent |
 | Sep'16 - Mar'17 | Java Development Bootcamp | KIC Campus                 | Student       | FT, 27 weeks  |
+  </details>
 
-### Stack ###
+  <details>
+    <summary>Stack</summary>
+
 | LANGUAGES       | FRAMEWORKS/LIBRARIES | DB/VERSION-CONTROL | TESTING    | CLOUD/SERVER    | CI/CD      |
 | :-------------: | :------------------: | :----------------: | :--------: | :--------------:|:---------: |
 | JavaScript(ES7) | Vue.js/Vuex/Vuetify  | PostgreSQL         | Jest       | Google Firebase | Docker     |
@@ -40,12 +63,11 @@
 | SQL             | Material-UI          |                    |            | Nginx           |            |
 | SASS/SCSS       | Bootstrap            |                    |            |                 |            |
 |                 | jQuery/AJAX          |                    |            |                 |            |
-
+  </details>
 
 ### Passionate Learner ###
 - :memo: I’m currently learning **Vue.js/Vuex/Vuetify**, **Nest.js/GraphQL/Firebase**, and **Docker/Kubernetes**.
 - :memo: I've started working towards a bachelor's degree in computer engineering, currently taking 4 courses.
-- :memo: Also getting hands-on experience in **Jira/Confluence/ClickUp** for agile production.
 
 ### Interests ###
 - 😄 Interest in console/PC/VR games, particularly in city/base builders, JRPG, MMORPG, rhythm games...
