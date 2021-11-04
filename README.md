@@ -2,7 +2,7 @@
 
 ### Work Experience ###
 
-- :sparkles: Currently working as a **Junior Software Developer** at **[Helmkin Digital Ltd.](https://www.helmkin.com)**
+- :sparkles: Currently working as a **Software Developer** at **[Helmkin Digital Ltd.](https://www.helmkin.com)**
 
 - 🔭 Worked as a **React Native Frontend Developer** from the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/) for 8 months**.
   <details>
