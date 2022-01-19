@@ -2,8 +2,9 @@
 
 ### Work Experience ###
 
+- 🌩️ Started working as a **Mentor** at **[Lighthouse Labs](https://lighthouselabs.ca)**
 - :sparkles: Currently working as a **Software Developer** at **[Helmkin Digital Ltd.](https://www.helmkin.com)**
-
+---
 - 🔭 Worked as a **React Native Frontend Developer** from the **[Digital Literacy Center of UBC](https://dlc.lled.educ.ubc.ca/2016/11/18/the-phoneme-project/) for 8 months**.
   <details>
     <summary>Accomplishments</summary>
@@ -41,7 +42,9 @@
 
 | DATE            | ROLE/PROGRAM              | COMPANY/SCHOOL             | PROJECTS/Team | TYPE          | 
 | :-------------: | :-----------------------: | :------------------------: | :-----------: | :-----------: |
-| Dec'20 - Pres.  | Junior Software Developer | Helmkin Digital Ltd.       | Rubix Team    | FT, Permanent |
+| Jan'22 - Pres.  | Mentor                    | Lighthouse Labs            | Mentor        | PT, Contract  |
+| Dec'21 - Pres.  | FS Software Developer     | Helmkin Digital Ltd.       | Rubix Team    | FT, Permanent |  
+| Dec'20 - Dec'21 | Junior Software Developer | Helmkin Digital Ltd.       | Rubix Team    | FT, Permanent |
 | Nov'20 - Jun'21 | RN Frontend Developer     | UBC Digital Literacy Center| Phoneme       | PT, Contract  |
 | Aug'20 - Nov'20 | Apprentice Mentor         | Lighthouse Labs            | Mentor        | PT, Contract  |
 | Mar'20 - May'20 | Web Development Bootcamp  | Lighthouse Labs            | Student       | FT, 12 weeks  |
