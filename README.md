@@ -43,8 +43,8 @@
 | DATE            | ROLE/PROGRAM              | COMPANY/SCHOOL             | PROJECTS/Team | TYPE          | 
 | :-------------: | :-----------------------: | :------------------------: | :-----------: | :-----------: |
 | Jan'22 - Pres.  | Mentor                    | Lighthouse Labs            | Mentor        | PT, Contract  |
-| Dec'21 - Pres.  | FS Software Developer     | Pilothouse                 | Warpdrive     | FT, Permanent |  
-| Dec'20 - Dec'21 | Junior Software Developer | Pilothouse                 | Warpdrive     | FT, Permanent |
+| Dec'21 - Pres.  | FS Software Developer     | Pilothouse                 | WarpDrive     | FT, Permanent |  
+| Dec'20 - Dec'21 | Junior Software Developer | Pilothouse                 | WarpDrive     | FT, Permanent |
 | Nov'20 - Jun'21 | RN Frontend Developer     | UBC Digital Literacy Center| Phoneme       | PT, Contract  |
 | Aug'20 - Nov'20 | Apprentice Mentor         | Lighthouse Labs            | Mentor        | PT, Contract  |
 | Mar'20 - May'20 | Web Development Bootcamp  | Lighthouse Labs            | Student       | FT, 12 weeks  |
@@ -57,15 +57,16 @@
 
 | LANGUAGES       | FRAMEWORKS/LIBRARIES | DB/VERSION-CONTROL | TESTING    | CLOUD/SERVER    | CI/CD      |
 | :-------------: | :------------------: | :----------------: | :--------: | :--------------:|:---------: |
-| JavaScript(ES7) | Vue.js/Vuex/Vuetify  | PostgreSQL         | Jest       | Google Firebase | Docker     |
-| TypeScript      | React.js/Redux       | GraphQL/Firebase   | Cypress    | AWS Lightsail   | Kubernetes |
-| Java/JSP        | React Native         | MySQL/MariaDB      | Storybook  | Github Pages    | Circle-CI  |
-| Python          | Node.js/Express.js   | Oracle             | Mocha/Chai | Heroku          |            |
-| HTML5/CSS3      | Nest.js              | Tibero             | RSpec      | Netlify         |            |
-| Ruby            | Spring Boot          | Git/SVN            | TDD        | Tomcat          |            |
-| SQL             | Material-UI          |                    |            | Nginx           |            |
-| SASS/SCSS       | Bootstrap            |                    |            |                 |            |
-|                 | jQuery/AJAX          |                    |            |                 |            |
+| JavaScript(ES8) | Vue.js/Vuex/Vuetify  | PostgreSQL         | Jest       | Google Firebase | Docker     |
+| TypeScript      | Nuxt.js              | MongoDB            | Cypress    | AWS Lightsail   | Kubernetes |           | 
+| Java/JSP        | React.js/Redux       | GraphQL/Firebase   | Storybook  | Github Pages    | Circle-CI  |
+| Python          | React Native         | MySQL/MariaDB      | Mocha/Chai | Heroku          |            |
+| HTML5/CSS3      | Node.js/Express.js   | Oracle             | RSpec      | Netlify         |            |
+| Ruby            | Nest.js              | Tibero             | TDD        | Tomcat          |            |
+| SQL             | Spring Boot          | Git/SVN            |            | Nginx           |            |
+| SASS/SCSS       | Material-UI          | TypeORM            |            |                 |            |
+|                 | Bootstrap            |                    |            |                 |            | 
+|                 | jQuery/AJAX          |                    |            |                 |            |                    
   </details>
 
 ### Passionate Learner ###
@@ -73,23 +74,8 @@
 - :memo: I've started working towards a bachelor's degree in computer engineering, currently taking 4 courses.
 
 ### Interests ###
-- 😄 Interest in console/PC/VR games, particularly in city/base builders, JRPG, MMORPG, music games...
+- 😄 Interest in console/PC/VR games, particularly in city/base builders, JRPG, MMORPG, music games and etc.
 - :speech_balloon: Feel free to contact me on **[LinkedIn](https://linked.in/in/jpark-dev)** and I should be able to respond fairly quickly!
 
 ### Quirky Fact ###
 - ⚡ Fun fact: A true believer in :pray::chicken::pray::chicken:**deep fried chickens**!:pray::chicken::pray::chicken:
-
-<!--
-**jpark-dev/jpark-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: by email most preferrably, at zeipar@gmail.com[zeipar@gmail.com]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
